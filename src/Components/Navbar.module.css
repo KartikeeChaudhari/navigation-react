@@ -1,0 +1,20 @@
+*,::after,::before{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav_container{
+    display: flex;
+    background: pink;
+    justify-content: start;
+    height: 10vh;
+    align-items: center;
+   
+}
+.nav_container .logo{
+    color:brown;
+    font-size: 2rem;
+   
+    
+
+}
